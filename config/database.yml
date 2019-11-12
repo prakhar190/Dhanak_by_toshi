@@ -3,16 +3,16 @@ development:
   database: dhanak_dev
   host: localhost
   timeout: 5000
-  username: postgres
-  password: postgres
+  username: prakhar
+  password: amsterdam
 
 test:
   adapter: postgresql
   database: dhanak_test
   host: localhost
   timeout: 5000
-  username: postgres
-  password: password
+  username: prakhar
+  password: amsterdam
 
 production:
   adapter: postgresql
